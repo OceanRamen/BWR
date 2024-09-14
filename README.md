@@ -33,7 +33,7 @@ Glitchless/Glitches/SUAS
 > Save-Scumming is **NOT** permitted.
 
 ### Glitches
-> **SUAS** glitch is **NOT** permitted.
+> **SUAS** glitch is **NOT** permitted. If the runner triggers **end-of-round** effects multiple times, the run is invalidated.
 
 ### SUAS
 > **SUAS** is allowed. 
