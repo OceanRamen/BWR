@@ -5,7 +5,7 @@
 Perkeo/Perkeoless
 Limited/Endless 
 Unseeded/Filtered-Seed/Seeded
-Glitchless/Glitches
+Glitchless/Glitches/SUAS
 
 ## Rules
 All runs **MUST** be run using [**ANKH**](https://github.com/MathIsFun0/Ankh) to verify run legitimacy. 
@@ -31,3 +31,9 @@ Use of **save-states** is permitted.
 ### Glitchless
 **Chicot Bug** is banned. If the runner has more than **ONE** copy of Chicot when **entering** a blind, the run is invalidated.
 Save-Scumming is **NOT** permitted.
+
+### Glitches
+**SUAS** glitch is **NOT** permitted.
+
+### SUAS
+**SUAS** is allowed. 
